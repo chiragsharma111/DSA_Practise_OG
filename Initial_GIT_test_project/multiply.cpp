@@ -8,7 +8,7 @@ int main() {
 
     int result = a*b;
 
-    cout << result << endl;
+    cout << "The product of two numbers = " << result << endl;
 
     return 0;
 }
